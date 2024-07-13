@@ -1,4 +1,4 @@
-Complete EDA and Pre-processed crop data. Different Machine Learning models trained on the data. GaussianNB has the maximum validation accuracy.
+Complete EDA and Pre-processed crop data. Different Machine Learning models trained on the data. Through K-Fold CV it resulted GaussianNB has the maximum accuracy.
 
  ![image](https://github.com/user-attachments/assets/623b19dd-b2d9-4ba8-aadf-6a17a3e918bf)
 
